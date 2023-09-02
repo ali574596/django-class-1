@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
+# this is a comment
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
